@@ -35,7 +35,7 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código: PHAN e PHPCS"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "GPL-3.0",
     "bin": ["buscar-cursos.php"]
 }
