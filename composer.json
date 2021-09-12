@@ -38,5 +38,6 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "license": "GPL-3.0",
-    "bin": ["buscar-cursos.php"]
+    "bin": ["buscar-cursos.php"],
+    "version": "v1.1.0"
 }
