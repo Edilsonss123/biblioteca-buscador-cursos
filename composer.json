@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\BuscadorDeCursos\\": "app/src/"
+            "App\\BuscadorDeCursos\\": "app\\src\\"
         }
     },
     "require-dev": {
@@ -35,5 +35,6 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código: PHAN e PHPCS"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
