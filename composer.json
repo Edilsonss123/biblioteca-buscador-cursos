@@ -35,6 +35,5 @@
     "scripts-descriptions": {
         "check": "Roda as verificações do código: PHAN e PHPCS"
     },
-    "minimum-stability": "stable",
-    "prefer-stable": true
+    "minimum-stability": "stable"
 }
